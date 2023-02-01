@@ -13,7 +13,9 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_c
 
 При использовании покоток время обучение на 40000 эпох составило 47 секунд. Без использования паралльного метода, обучение занимало 85 секунд.
 * Без распараллеливания
+
 ![image](https://user-images.githubusercontent.com/58101395/216070645-33c4f6cc-1f59-4859-b0ba-58b4f5515733.png)
 
 * С распараллеливанием
+
 ![image](https://user-images.githubusercontent.com/58101395/216070771-732cf275-c0e2-450c-bac7-2014e1db86ee.png)
